@@ -5,7 +5,7 @@
 Funcionalidade: Correios
      Eu como sub sistema terceiro
      Quero buscar um endereço pelo correio
-     Para localizar a unidade da Inmetrics Barueri
+     Para localizar a unidade de Barueri
 
     @Correios 
     Esquema do Cenário: Buscar CEP da Inmetrics
